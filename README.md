@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm V Lokesh
+Engineering Student(ISE) @GCU
 
 # 💫 About Me:
 I'm currently learning<br>I am a Engineering @ Garden city university , Bangalore<br>I am looking for paid_Internship

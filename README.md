@@ -3,6 +3,10 @@ Engineering Student(ISE) @GCU
 
 # 💫 About Me:
 I'm currently learning<br>I am a Engineering @ Garden city university , Bangalore<br>I am looking for paid_Internship
+- 🌱 I’m currently learning advanced web development and cloud technologies.
+- 💬 Ask me about Python, JavaScript, and web development.
+- 📫 How to reach me: [lokesh@example.com](mailto:lokesh@example.com)
+- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 
 ## 🌐 Socials:
